@@ -1,16 +1,19 @@
-## Hi there 👋
+# РМ-ГРУПП
 
-<!--
-**rmgroupkbr-max/rmgroupkbr-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Производим автоматические аппликаторы этикеток и оборудование для маркировки в Нальчике (КБР).
 
-Here are some ideas to get you started:
+**Главный продукт - аппликатор РМ-150:** нанесение самоклеящихся этикеток на ходу конвейера, до 45 м/мин. Работает с бумажными, плёночными и прозрачными этикетками, включая этикетки с Data Matrix для «Честного знака».
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Коротко
+- Собственное производство в Нальчике - разработка, сборка, настройка и сервис.
+- Модели: РМ-150 / РМ-200 / РМ-250 (левое и правое исполнение).
+- Проверка на образцах заказчика перед партией.
+- Гарантия 12 месяцев, срок службы 5 лет.
+
+## Контакты
+- Сайт: [rmgrupp.ru](https://rmgrupp.ru)
+- Каталог РМ-150: [rmgrupp.ru/catalog/applikatory/rm-150](https://rmgrupp.ru/catalog/applikatory/rm-150/)
+- Страница на GitHub: [rmgroupkbr-max.github.io](https://rmgroupkbr-max.github.io/)
+- Email: [info@rmgrupp.ru](mailto:info@rmgrupp.ru)
+- Телефон: [+7 (499) 346-77-87](tel:+74993467787), [+7 (928) 693-96-70](tel:+79286939670)
+- Производство: 360024, КБР, г. Нальчик, 1-й Промышленный проезд, зд. 13
